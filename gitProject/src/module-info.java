@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author GigaGame
+ *
+ */
+module gitProject {
+}
